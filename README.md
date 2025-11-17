@@ -1,9 +1,9 @@
-###Travel Booking System 🌍
+ Travel Booking System 🌍
 
 A full-stack web application that allows users to explore global destinations, book travel services, and manage their trips.
 The system integrates React.js, Node.js (Express), and MySQL to provide a complete travel-booking experience.
 
-#🚀 Features
+## 🚀 Features
 User Module
 
 Secure user registration and login (JWT authentication)
@@ -28,7 +28,7 @@ Filter reviews by category (Food, Room, Attraction, Transport)
 
 View reviews from other travelers
 
-#🛠 Tech Stack
+## 🛠 Tech Stack
 Frontend
 
 React.js
@@ -57,14 +57,14 @@ Triggers
 
 Functions
 
-#📁 Project Structure
+## 📁 Project Structure
 Travel_Booking_System/
 │── backend/        # Node.js API
 │── frontend/       # React application
 │── database.sql    # MySQL schema + sample data
 │── README.md       # Project documentation
 
-#🧪 Key Functionalities
+## 🧪 Key Functionalities
 
 Fetching dynamic city content with images
 
@@ -78,7 +78,7 @@ Rating validation using triggers
 
 Stored procedures for booking automation
 
-#📌 How to Run the Project
+## 📌 How to Run the Project
 Backend
 cd backend
 npm install
@@ -89,7 +89,7 @@ cd frontend
 npm install
 npm start
 
-#📖 Future Enhancements
+## 📖 Future Enhancements
 
 Admin dashboard for managing cities and services
 

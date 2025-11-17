@@ -1,4 +1,4 @@
- Travel Booking System 🌍
+# Travel Booking System 🌍
 
 A full-stack web application that allows users to explore global destinations, book travel services, and manage their trips.
 The system integrates React.js, Node.js (Express), and MySQL to provide a complete travel-booking experience.
